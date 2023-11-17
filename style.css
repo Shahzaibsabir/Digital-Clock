@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.main{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid white;
+    width: 400px;
+    margin-top: 300px;
+}
