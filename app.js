@@ -21,6 +21,10 @@ let hour = document.querySelector(".hour")
 let mint = document.querySelector(".mint")
 let sec = document.querySelector(".sec")
 let num = 0;
+let hour = document.querySelector(".hour")
+let mint = document.querySelector(".mint")
+let sec = document.querySelector(".sec")
+let num = 0;
 
 
 
